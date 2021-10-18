@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Practica1React/static/css/main.7de4fd34.chunk.css",
+    "main.js": "/Practica1React/static/js/main.e0c0187d.chunk.js",
+    "main.js.map": "/Practica1React/static/js/main.e0c0187d.chunk.js.map",
+    "runtime-main.js": "/Practica1React/static/js/runtime-main.ad709b29.js",
+    "runtime-main.js.map": "/Practica1React/static/js/runtime-main.ad709b29.js.map",
+    "static/js/2.155a9b87.chunk.js": "/Practica1React/static/js/2.155a9b87.chunk.js",
+    "static/js/2.155a9b87.chunk.js.map": "/Practica1React/static/js/2.155a9b87.chunk.js.map",
+    "static/js/3.74446438.chunk.js": "/Practica1React/static/js/3.74446438.chunk.js",
+    "static/js/3.74446438.chunk.js.map": "/Practica1React/static/js/3.74446438.chunk.js.map",
+    "index.html": "/Practica1React/index.html",
+    "static/css/main.7de4fd34.chunk.css.map": "/Practica1React/static/css/main.7de4fd34.chunk.css.map",
+    "static/js/2.155a9b87.chunk.js.LICENSE.txt": "/Practica1React/static/js/2.155a9b87.chunk.js.LICENSE.txt",
+    "static/media/tecLogo.338a6ef7.png": "/Practica1React/static/media/tecLogo.338a6ef7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad709b29.js",
+    "static/js/2.155a9b87.chunk.js",
+    "static/css/main.7de4fd34.chunk.css",
+    "static/js/main.e0c0187d.chunk.js"
+  ]
+}
