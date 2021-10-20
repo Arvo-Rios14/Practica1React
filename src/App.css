@@ -18,6 +18,14 @@ html {
     align-items: center;
 }
 
+#button{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
 .header {
     display: flex;
     justify-content: center;
@@ -31,6 +39,12 @@ html {
     height: 90%;
 
 }
+#button1{
+    background-color: #062485;
+    color: white;
+}
+
+
 
 .Body {
     display: flex;
